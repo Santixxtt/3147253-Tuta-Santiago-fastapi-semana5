@@ -1,8 +1,8 @@
-# 📚 Proyecto Semana 4 - FastAPI CRUD 
+# 📚 Proyecto Semana 5 - FastAPI Encriptación de Clave 
 
-Este proyecto usa como base y ejemplo mi parte de mi proyecto de entrega permitiendo realizar un **CRUD**, en este caso solo en la entidad `Usuario`.
+Este proyecto usa como base y ejemplo mi parte de mi proyecto de entrega permitiendo realizar un **CRUD**, en esta semana se actualiza a poder encriptar las claves.
 
-La base de datos usada es **SQLite** mediante **SQLAlchemy ORM**.
+La base de datos usada es **SQLite** mediante **SQLAlchemy ORM**. con un encriptamiento de datos con haslib
 
 ---
 
@@ -11,6 +11,7 @@ La base de datos usada es **SQLite** mediante **SQLAlchemy ORM**.
 - [FastAPI](https://fastapi.tiangolo.com/)
 - [SQLAlchemy](https://www.sqlalchemy.org/)
 - [Uvicorn](https://www.uvicorn.org/)
+- [haslib]
 
 ---
 
