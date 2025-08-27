@@ -10,8 +10,8 @@ La base de datos usada es **SQLite** mediante **SQLAlchemy ORM**. con un encript
 - [Python 3.11+](https://www.python.org/)
 - [FastAPI](https://fastapi.tiangolo.com/)
 - [SQLAlchemy](https://www.sqlalchemy.org/)
-- [Uvicorn](https://www.uvicorn.org/)
-- [haslib]
+- [Uvicorn](https://www.uvicorn.org/?utm_source=chatgpt.com)
+- [haslib](https://docs.python.org/3/library/hashlib.html?utm_source=chatgpt.com)
 
 ---
 
